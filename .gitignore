@@ -1,0 +1,8 @@
+
+*.xml
+*.iml
+*.info
+*.txt
+*.png
+*.properties
+*.kotlin_module
